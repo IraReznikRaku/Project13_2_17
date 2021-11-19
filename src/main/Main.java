@@ -24,8 +24,5 @@ public class Main {
         }
         System.out.println("Your random string: " + sb);
 
-//        char i = 65;
-//        System.out.println(i);
-
     }
 }
